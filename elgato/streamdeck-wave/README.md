@@ -13,3 +13,7 @@ You can simply just run this `.bat` file, however I'm using a button on the Stre
 3. In the "Application" field, select the `.bat` file
 
 Why the "Advanced Launcher" plugin? Because Elgato's native app launcher seems to terminate the script when Streamdeck is being killed. With this solution, it keeps the terminal with the script running even after the Streamdeck is killed
+
+## Tutorial video
+https://github.com/user-attachments/assets/eab711f7-4872-4e55-854f-01bbfc620a87
+
