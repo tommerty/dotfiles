@@ -1,0 +1,8 @@
+theme = BlulocoDark
+
+# Enable shell integration
+shell-integration = zsh
+
+# Configure status bar colors
+background = 282c34
+foreground = ffffff
