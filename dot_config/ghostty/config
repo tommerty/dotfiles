@@ -4,3 +4,6 @@ theme = BlulocoDark
 shell-integration = zsh
 
 background-opacity = 0.9
+
+# Only works on MacOS
+background-blur-radius = 20
