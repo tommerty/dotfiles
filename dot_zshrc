@@ -135,3 +135,4 @@ esac
 export GOPATH=$HOME/go
 
 alias af-designer='rum affinity-photo3-wine9.13-part3 $HOME/.wineAffinity wine "$HOME/.wineAffinity/drive_c/Program Files/Affinity/Designer 2/Designer.exe" renderer=vulkan'
+alias zshrc-restart='source ~/.zshrc'
